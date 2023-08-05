@@ -1,0 +1,1973 @@
+{"drapeaux":  [
+  {
+    "Country": "Afghanistan",
+    "FileName": "Afghanistan.png",
+    "ID": "drapeau_001",
+    "Zone": "Asie",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 11,
+    "FirstLetter": "A"
+  },
+  {
+    "Country": "Afrique du Sud",
+    "FileName": "Afrique du Sud.png",
+    "ID": "drapeau_002",
+    "Zone": "Afrique",
+    "Difficulty": "Facile",
+    "AltAnswer": "",
+    "CharNb": 14,
+    "FirstLetter": "A"
+  },
+  {
+    "Country": "Albanie",
+    "FileName": "Albanie.png",
+    "ID": "drapeau_003",
+    "Zone": "Europe",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 7,
+    "FirstLetter": "A"
+  },
+  {
+    "Country": "Algérie",
+    "FileName": "Algérie.png",
+    "ID": "drapeau_004",
+    "Zone": "Afrique",
+    "Difficulty": "Facile",
+    "AltAnswer": "",
+    "CharNb": 7,
+    "FirstLetter": "A"
+  },
+  {
+    "Country": "Allemagne",
+    "FileName": "Allemagne.png",
+    "ID": "drapeau_005",
+    "Zone": "Europe",
+    "Difficulty": "Facile",
+    "AltAnswer": "",
+    "CharNb": 9,
+    "FirstLetter": "A"
+  },
+  {
+    "Country": "Andorre",
+    "FileName": "Andorre.png",
+    "ID": "drapeau_006",
+    "Zone": "Europe",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 7,
+    "FirstLetter": "A"
+  },
+  {
+    "Country": "Angola",
+    "FileName": "Angola.png",
+    "ID": "drapeau_007",
+    "Zone": "Afrique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 6,
+    "FirstLetter": "A"
+  },
+  {
+    "Country": "Antigua-et-Barbuda",
+    "FileName": "Antigua-et-Barbuda.png",
+    "ID": "drapeau_008",
+    "Zone": "Amérique",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 18,
+    "FirstLetter": "A"
+  },
+  {
+    "Country": "Arabie saoudite",
+    "FileName": "Arabie saoudite.png",
+    "ID": "drapeau_009",
+    "Zone": "Asie",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 15,
+    "FirstLetter": "A"
+  },
+  {
+    "Country": "Argentine",
+    "FileName": "Argentine.png",
+    "ID": "drapeau_010",
+    "Zone": "Amérique",
+    "Difficulty": "Facile",
+    "AltAnswer": "",
+    "CharNb": 9,
+    "FirstLetter": "A"
+  },
+  {
+    "Country": "Arménie",
+    "FileName": "Arménie.png",
+    "ID": "drapeau_011",
+    "Zone": "Europe",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 7,
+    "FirstLetter": "A"
+  },
+  {
+    "Country": "Australie",
+    "FileName": "Australie.png",
+    "ID": "drapeau_012",
+    "Zone": "Océanie",
+    "Difficulty": "Facile",
+    "AltAnswer": "",
+    "CharNb": 9,
+    "FirstLetter": "A"
+  },
+  {
+    "Country": "Autriche",
+    "FileName": "Autriche.png",
+    "ID": "drapeau_013",
+    "Zone": "Europe",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 8,
+    "FirstLetter": "A"
+  },
+  {
+    "Country": "Azerbaïdjan",
+    "FileName": "Azerbaïdjan.png",
+    "ID": "drapeau_014",
+    "Zone": "Asie",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 11,
+    "FirstLetter": "A"
+  },
+  {
+    "Country": "Bahamas",
+    "FileName": "Bahamas.png",
+    "ID": "drapeau_015",
+    "Zone": "Amérique",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 7,
+    "FirstLetter": "B"
+  },
+  {
+    "Country": "Bahreïn",
+    "FileName": "Bahreïn.png",
+    "ID": "drapeau_016",
+    "Zone": "Asie",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 7,
+    "FirstLetter": "B"
+  },
+  {
+    "Country": "Bangladesh",
+    "FileName": "Bangladesh.png",
+    "ID": "drapeau_017",
+    "Zone": "Asie",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 10,
+    "FirstLetter": "B"
+  },
+  {
+    "Country": "Barbade",
+    "FileName": "Barbade.png",
+    "ID": "drapeau_018",
+    "Zone": "Amérique",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 7,
+    "FirstLetter": "B"
+  },
+  {
+    "Country": "Belgique",
+    "FileName": "Belgique.png",
+    "ID": "drapeau_019",
+    "Zone": "Europe",
+    "Difficulty": "Facile",
+    "AltAnswer": "",
+    "CharNb": 8,
+    "FirstLetter": "B"
+  },
+  {
+    "Country": "Belize",
+    "FileName": "Belize.png",
+    "ID": "drapeau_020",
+    "Zone": "Amérique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 6,
+    "FirstLetter": "B"
+  },
+  {
+    "Country": "Bénin",
+    "FileName": "Bénin.png",
+    "ID": "drapeau_021",
+    "Zone": "Afrique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 5,
+    "FirstLetter": "B"
+  },
+  {
+    "Country": "Bhoutan",
+    "FileName": "Bhoutan.png",
+    "ID": "drapeau_022",
+    "Zone": "Asie",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 7,
+    "FirstLetter": "B"
+  },
+  {
+    "Country": "Biélorussie",
+    "FileName": "Biélorussie.png",
+    "ID": "drapeau_023",
+    "Zone": "Europe",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 11,
+    "FirstLetter": "B"
+  },
+  {
+    "Country": "Birmanie",
+    "FileName": "Birmanie.png",
+    "ID": "drapeau_024",
+    "Zone": "Asie",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 8,
+    "FirstLetter": "B"
+  },
+  {
+    "Country": "Bolivie",
+    "FileName": "Bolivie.png",
+    "ID": "drapeau_025",
+    "Zone": "Amérique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 7,
+    "FirstLetter": "B"
+  },
+  {
+    "Country": "Bosnie-Herzégovine",
+    "FileName": "Bosnie-Herzégovine.png",
+    "ID": "drapeau_026",
+    "Zone": "Europe",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 18,
+    "FirstLetter": "B"
+  },
+  {
+    "Country": "Botswana",
+    "FileName": "Botswana.png",
+    "ID": "drapeau_027",
+    "Zone": "Afrique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 8,
+    "FirstLetter": "B"
+  },
+  {
+    "Country": "Brésil",
+    "FileName": "Brésil.png",
+    "ID": "drapeau_028",
+    "Zone": "Amérique",
+    "Difficulty": "Facile",
+    "AltAnswer": "",
+    "CharNb": 6,
+    "FirstLetter": "B"
+  },
+  {
+    "Country": "Brunei",
+    "FileName": "Brunei.png",
+    "ID": "drapeau_029",
+    "Zone": "Asie",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 6,
+    "FirstLetter": "B"
+  },
+  {
+    "Country": "Bulgarie",
+    "FileName": "Bulgarie.png",
+    "ID": "drapeau_030",
+    "Zone": "Europe",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 8,
+    "FirstLetter": "B"
+  },
+  {
+    "Country": "Burkina Faso",
+    "FileName": "Burkina Faso.png",
+    "ID": "drapeau_031",
+    "Zone": "Afrique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 12,
+    "FirstLetter": "B"
+  },
+  {
+    "Country": "Burundi",
+    "FileName": "Burundi.png",
+    "ID": "drapeau_032",
+    "Zone": "Afrique",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 7,
+    "FirstLetter": "B"
+  },
+  {
+    "Country": "Cambodge",
+    "FileName": "Cambodge.png",
+    "ID": "drapeau_033",
+    "Zone": "Asie",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 8,
+    "FirstLetter": "C"
+  },
+  {
+    "Country": "Cameroun",
+    "FileName": "Cameroun.png",
+    "ID": "drapeau_034",
+    "Zone": "Afrique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 8,
+    "FirstLetter": "C"
+  },
+  {
+    "Country": "Canada",
+    "FileName": "Canada.png",
+    "ID": "drapeau_035",
+    "Zone": "Amérique",
+    "Difficulty": "Facile",
+    "AltAnswer": "",
+    "CharNb": 6,
+    "FirstLetter": "C"
+  },
+  {
+    "Country": "Cap-Vert",
+    "FileName": "Cap-Vert.png",
+    "ID": "drapeau_036",
+    "Zone": "Afrique",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 8,
+    "FirstLetter": "C"
+  },
+  {
+    "Country": "République centrafricaine",
+    "FileName": "République centrafricaine.png",
+    "ID": "drapeau_037",
+    "Zone": "Afrique",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 25,
+    "FirstLetter": "R"
+  },
+  {
+    "Country": "Chili",
+    "FileName": "Chili.png",
+    "ID": "drapeau_038",
+    "Zone": "Amérique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 5,
+    "FirstLetter": "C"
+  },
+  {
+    "Country": "Chine",
+    "FileName": "Chine.png",
+    "ID": "drapeau_039",
+    "Zone": "Asie",
+    "Difficulty": "Facile",
+    "AltAnswer": "",
+    "CharNb": 5,
+    "FirstLetter": "C"
+  },
+  {
+    "Country": "Chypre",
+    "FileName": "Chypre.png",
+    "ID": "drapeau_040",
+    "Zone": "Europe",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 6,
+    "FirstLetter": "C"
+  },
+  {
+    "Country": "Colombie",
+    "FileName": "Colombie.png",
+    "ID": "drapeau_041",
+    "Zone": "Amérique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 8,
+    "FirstLetter": "C"
+  },
+  {
+    "Country": "Comores",
+    "FileName": "Comores.png",
+    "ID": "drapeau_042",
+    "Zone": "Afrique",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 7,
+    "FirstLetter": "C"
+  },
+  {
+    "Country": "République démocratique du Congo",
+    "FileName": "République démocratique du Congo.png",
+    "ID": "drapeau_043",
+    "Zone": "Afrique",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 32,
+    "FirstLetter": "R"
+  },
+  {
+    "Country": "République du Congo",
+    "FileName": "République du Congo.png",
+    "ID": "drapeau_044",
+    "Zone": "Afrique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 19,
+    "FirstLetter": "R"
+  },
+  {
+    "Country": "Îles Cook",
+    "FileName": "Îles Cook.png",
+    "ID": "drapeau_045",
+    "Zone": "Océanie",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 9,
+    "FirstLetter": "Î"
+  },
+  {
+    "Country": "Corée du Nord",
+    "FileName": "Corée du Nord.png",
+    "ID": "drapeau_046",
+    "Zone": "Asie",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 13,
+    "FirstLetter": "C"
+  },
+  {
+    "Country": "Corée du Sud",
+    "FileName": "Corée du Sud.png",
+    "ID": "drapeau_047",
+    "Zone": "Asie",
+    "Difficulty": "Facile",
+    "AltAnswer": "",
+    "CharNb": 12,
+    "FirstLetter": "C"
+  },
+  {
+    "Country": "Costa Rica",
+    "FileName": "Costa Rica.png",
+    "ID": "drapeau_048",
+    "Zone": "Amérique",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 10,
+    "FirstLetter": "C"
+  },
+  {
+    "Country": "Côte d'Ivoire",
+    "FileName": "Côte d'Ivoire.png",
+    "ID": "drapeau_049",
+    "Zone": "Afrique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 13,
+    "FirstLetter": "C"
+  },
+  {
+    "Country": "Croatie",
+    "FileName": "Croatie.png",
+    "ID": "drapeau_050",
+    "Zone": "Europe",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 7,
+    "FirstLetter": "C"
+  },
+  {
+    "Country": "Cuba",
+    "FileName": "Cuba.png",
+    "ID": "drapeau_051",
+    "Zone": "Amérique",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 4,
+    "FirstLetter": "C"
+  },
+  {
+    "Country": "Danemark",
+    "FileName": "Danemark.png",
+    "ID": "drapeau_052",
+    "Zone": "Europe",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 8,
+    "FirstLetter": "D"
+  },
+  {
+    "Country": "Djibouti",
+    "FileName": "Djibouti.png",
+    "ID": "drapeau_053",
+    "Zone": "Afrique",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 8,
+    "FirstLetter": "D"
+  },
+  {
+    "Country": "République dominicaine",
+    "FileName": "République dominicaine.png",
+    "ID": "drapeau_054",
+    "Zone": "Amérique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 22,
+    "FirstLetter": "R"
+  },
+  {
+    "Country": "Dominique",
+    "FileName": "Dominique.png",
+    "ID": "drapeau_055",
+    "Zone": "Amérique",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 9,
+    "FirstLetter": "D"
+  },
+  {
+    "Country": "Égypte",
+    "FileName": "Égypte.png",
+    "ID": "drapeau_056",
+    "Zone": "Afrique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 6,
+    "FirstLetter": "É"
+  },
+  {
+    "Country": "Émirats arabes unis",
+    "FileName": "Émirats arabes unis.png",
+    "ID": "drapeau_057",
+    "Zone": "Asie",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 19,
+    "FirstLetter": "É"
+  },
+  {
+    "Country": "Équateur",
+    "FileName": "Équateur.png",
+    "ID": "drapeau_058",
+    "Zone": "Amérique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 8,
+    "FirstLetter": "É"
+  },
+  {
+    "Country": "Érythrée",
+    "FileName": "Érythrée.png",
+    "ID": "drapeau_059",
+    "Zone": "Afrique",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 8,
+    "FirstLetter": "É"
+  },
+  {
+    "Country": "Espagne",
+    "FileName": "Espagne.png",
+    "ID": "drapeau_060",
+    "Zone": "Europe",
+    "Difficulty": "Facile",
+    "AltAnswer": "",
+    "CharNb": 7,
+    "FirstLetter": "E"
+  },
+  {
+    "Country": "Estonie",
+    "FileName": "Estonie.png",
+    "ID": "drapeau_061",
+    "Zone": "Europe",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 7,
+    "FirstLetter": "E"
+  },
+  {
+    "Country": "Eswatini",
+    "FileName": "Eswatini.png",
+    "ID": "drapeau_062",
+    "Zone": "Afrique",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 8,
+    "FirstLetter": "E"
+  },
+  {
+    "Country": "États-Unis",
+    "FileName": "États-Unis.png",
+    "ID": "drapeau_063",
+    "Zone": "Amérique",
+    "Difficulty": "Facile",
+    "AltAnswer": "",
+    "CharNb": 10,
+    "FirstLetter": "É"
+  },
+  {
+    "Country": "Éthiopie",
+    "FileName": "Éthiopie.png",
+    "ID": "drapeau_064",
+    "Zone": "Afrique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 8,
+    "FirstLetter": "É"
+  },
+  {
+    "Country": "Fidji",
+    "FileName": "Fidji.png",
+    "ID": "drapeau_065",
+    "Zone": "Océanie",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 5,
+    "FirstLetter": "F"
+  },
+  {
+    "Country": "Finlande",
+    "FileName": "Finlande.png",
+    "ID": "drapeau_066",
+    "Zone": "Europe",
+    "Difficulty": "Facile",
+    "AltAnswer": "",
+    "CharNb": 8,
+    "FirstLetter": "F"
+  },
+  {
+    "Country": "France",
+    "FileName": "France.png",
+    "ID": "drapeau_067",
+    "Zone": "Europe",
+    "Difficulty": "Facile",
+    "AltAnswer": "",
+    "CharNb": 6,
+    "FirstLetter": "F"
+  },
+  {
+    "Country": "Gabon",
+    "FileName": "Gabon.png",
+    "ID": "drapeau_068",
+    "Zone": "Afrique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 5,
+    "FirstLetter": "G"
+  },
+  {
+    "Country": "Gambie",
+    "FileName": "Gambie.png",
+    "ID": "drapeau_069",
+    "Zone": "Afrique",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 6,
+    "FirstLetter": "G"
+  },
+  {
+    "Country": "Géorgie",
+    "FileName": "Géorgie.png",
+    "ID": "drapeau_070",
+    "Zone": "Europe",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 7,
+    "FirstLetter": "G"
+  },
+  {
+    "Country": "Ghana",
+    "FileName": "Ghana.png",
+    "ID": "drapeau_071",
+    "Zone": "Afrique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 5,
+    "FirstLetter": "G"
+  },
+  {
+    "Country": "Grèce",
+    "FileName": "Grèce.png",
+    "ID": "drapeau_072",
+    "Zone": "Europe",
+    "Difficulty": "Facile",
+    "AltAnswer": "",
+    "CharNb": 5,
+    "FirstLetter": "G"
+  },
+  {
+    "Country": "Grenade",
+    "FileName": "Grenade.png",
+    "ID": "drapeau_073",
+    "Zone": "Amérique",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 7,
+    "FirstLetter": "G"
+  },
+  {
+    "Country": "Guatemala",
+    "FileName": "Guatemala.png",
+    "ID": "drapeau_074",
+    "Zone": "Amérique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 9,
+    "FirstLetter": "G"
+  },
+  {
+    "Country": "Guinée",
+    "FileName": "Guinée.png",
+    "ID": "drapeau_075",
+    "Zone": "Afrique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 6,
+    "FirstLetter": "G"
+  },
+  {
+    "Country": "Guinée-Bissau",
+    "FileName": "Guinée-Bissau.png",
+    "ID": "drapeau_076",
+    "Zone": "Afrique",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 13,
+    "FirstLetter": "G"
+  },
+  {
+    "Country": "Guinée équatoriale",
+    "FileName": "Guinée équatoriale.png",
+    "ID": "drapeau_077",
+    "Zone": "Afrique",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 18,
+    "FirstLetter": "G"
+  },
+  {
+    "Country": "Guyana",
+    "FileName": "Guyana.png",
+    "ID": "drapeau_078",
+    "Zone": "Amérique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 6,
+    "FirstLetter": "G"
+  },
+  {
+    "Country": "Haïti",
+    "FileName": "Haïti.png",
+    "ID": "drapeau_079",
+    "Zone": "Amérique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 5,
+    "FirstLetter": "H"
+  },
+  {
+    "Country": "Honduras",
+    "FileName": "Honduras.png",
+    "ID": "drapeau_080",
+    "Zone": "Amérique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 8,
+    "FirstLetter": "H"
+  },
+  {
+    "Country": "Hongrie",
+    "FileName": "Hongrie.png",
+    "ID": "drapeau_081",
+    "Zone": "Europe",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 7,
+    "FirstLetter": "H"
+  },
+  {
+    "Country": "Inde",
+    "FileName": "Inde.png",
+    "ID": "drapeau_082",
+    "Zone": "Asie",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 4,
+    "FirstLetter": "I"
+  },
+  {
+    "Country": "Indonésie",
+    "FileName": "Indonésie.png",
+    "ID": "drapeau_083",
+    "Zone": "Asie",
+    "Difficulty": "Difficile",
+    "AltAnswer": "Monaco",
+    "CharNb": 9,
+    "FirstLetter": "I"
+  },
+  {
+    "Country": "Irak",
+    "FileName": "Irak.png",
+    "ID": "drapeau_084",
+    "Zone": "Asie",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 4,
+    "FirstLetter": "I"
+  },
+  {
+    "Country": "Iran",
+    "FileName": "Iran.png",
+    "ID": "drapeau_085",
+    "Zone": "Asie",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 4,
+    "FirstLetter": "I"
+  },
+  {
+    "Country": "Irlande",
+    "FileName": "Irlande.png",
+    "ID": "drapeau_086",
+    "Zone": "Europe",
+    "Difficulty": "Facile",
+    "AltAnswer": "",
+    "CharNb": 7,
+    "FirstLetter": "I"
+  },
+  {
+    "Country": "Islande",
+    "FileName": "Islande.png",
+    "ID": "drapeau_087",
+    "Zone": "Europe",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 7,
+    "FirstLetter": "I"
+  },
+  {
+    "Country": "Israël",
+    "FileName": "Israël.png",
+    "ID": "drapeau_088",
+    "Zone": "Asie",
+    "Difficulty": "Facile",
+    "AltAnswer": "",
+    "CharNb": 6,
+    "FirstLetter": "I"
+  },
+  {
+    "Country": "Italie",
+    "FileName": "Italie.png",
+    "ID": "drapeau_089",
+    "Zone": "Europe",
+    "Difficulty": "Facile",
+    "AltAnswer": "",
+    "CharNb": 6,
+    "FirstLetter": "I"
+  },
+  {
+    "Country": "Jamaïque",
+    "FileName": "Jamaïque.png",
+    "ID": "drapeau_090",
+    "Zone": "Amérique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 8,
+    "FirstLetter": "J"
+  },
+  {
+    "Country": "Japon",
+    "FileName": "Japon.png",
+    "ID": "drapeau_091",
+    "Zone": "Asie",
+    "Difficulty": "Facile",
+    "AltAnswer": "",
+    "CharNb": 5,
+    "FirstLetter": "J"
+  },
+  {
+    "Country": "Jordanie",
+    "FileName": "Jordanie.png",
+    "ID": "drapeau_092",
+    "Zone": "Asie",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 8,
+    "FirstLetter": "J"
+  },
+  {
+    "Country": "Kazakhstan",
+    "FileName": "Kazakhstan.png",
+    "ID": "drapeau_093",
+    "Zone": "Asie",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 10,
+    "FirstLetter": "K"
+  },
+  {
+    "Country": "Kenya",
+    "FileName": "Kenya.png",
+    "ID": "drapeau_094",
+    "Zone": "Afrique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 5,
+    "FirstLetter": "K"
+  },
+  {
+    "Country": "Kirghizistan",
+    "FileName": "Kirghizistan.png",
+    "ID": "drapeau_095",
+    "Zone": "Asie",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 12,
+    "FirstLetter": "K"
+  },
+  {
+    "Country": "Kiribati",
+    "FileName": "Kiribati.png",
+    "ID": "drapeau_096",
+    "Zone": "Océanie",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 8,
+    "FirstLetter": "K"
+  },
+  {
+    "Country": "Koweït",
+    "FileName": "Koweït.png",
+    "ID": "drapeau_097",
+    "Zone": "Asie",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 6,
+    "FirstLetter": "K"
+  },
+  {
+    "Country": "Laos",
+    "FileName": "Laos.png",
+    "ID": "drapeau_098",
+    "Zone": "Asie",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 4,
+    "FirstLetter": "L"
+  },
+  {
+    "Country": "Lesotho",
+    "FileName": "Lesotho.png",
+    "ID": "drapeau_099",
+    "Zone": "Afrique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 7,
+    "FirstLetter": "L"
+  },
+  {
+    "Country": "Lettonie",
+    "FileName": "Lettonie.png",
+    "ID": "drapeau_100",
+    "Zone": "Europe",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 8,
+    "FirstLetter": "L"
+  },
+  {
+    "Country": "Liban",
+    "FileName": "Liban.png",
+    "ID": "drapeau_101",
+    "Zone": "Asie",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 5,
+    "FirstLetter": "L"
+  },
+  {
+    "Country": "Liberia",
+    "FileName": "Liberia.png",
+    "ID": "drapeau_102",
+    "Zone": "Afrique",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 7,
+    "FirstLetter": "L"
+  },
+  {
+    "Country": "Libye",
+    "FileName": "Libye.png",
+    "ID": "drapeau_103",
+    "Zone": "Afrique",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 5,
+    "FirstLetter": "L"
+  },
+  {
+    "Country": "Liechtenstein",
+    "FileName": "Liechtenstein.png",
+    "ID": "drapeau_104",
+    "Zone": "Europe",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 13,
+    "FirstLetter": "L"
+  },
+  {
+    "Country": "Lituanie",
+    "FileName": "Lituanie.png",
+    "ID": "drapeau_105",
+    "Zone": "Europe",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 8,
+    "FirstLetter": "L"
+  },
+  {
+    "Country": "Luxembourg",
+    "FileName": "Luxembourg.png",
+    "ID": "drapeau_106",
+    "Zone": "Europe",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 10,
+    "FirstLetter": "L"
+  },
+  {
+    "Country": "Macédoine du Nord",
+    "FileName": "Macédoine du Nord.png",
+    "ID": "drapeau_107",
+    "Zone": "Europe",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 17,
+    "FirstLetter": "M"
+  },
+  {
+    "Country": "Madagascar",
+    "FileName": "Madagascar.png",
+    "ID": "drapeau_108",
+    "Zone": "Afrique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 10,
+    "FirstLetter": "M"
+  },
+  {
+    "Country": "Malaisie",
+    "FileName": "Malaisie.png",
+    "ID": "drapeau_109",
+    "Zone": "Asie",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 8,
+    "FirstLetter": "M"
+  },
+  {
+    "Country": "Malawi",
+    "FileName": "Malawi.png",
+    "ID": "drapeau_110",
+    "Zone": "Afrique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 6,
+    "FirstLetter": "M"
+  },
+  {
+    "Country": "Maldives",
+    "FileName": "Maldives.png",
+    "ID": "drapeau_111",
+    "Zone": "Asie",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 8,
+    "FirstLetter": "M"
+  },
+  {
+    "Country": "Mali",
+    "FileName": "Mali.png",
+    "ID": "drapeau_112",
+    "Zone": "Afrique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 4,
+    "FirstLetter": "M"
+  },
+  {
+    "Country": "Malte",
+    "FileName": "Malte.png",
+    "ID": "drapeau_113",
+    "Zone": "Europe",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 5,
+    "FirstLetter": "M"
+  },
+  {
+    "Country": "Maroc",
+    "FileName": "Maroc.png",
+    "ID": "drapeau_114",
+    "Zone": "Afrique",
+    "Difficulty": "Facile",
+    "AltAnswer": "",
+    "CharNb": 5,
+    "FirstLetter": "M"
+  },
+  {
+    "Country": "Îles Marshall",
+    "FileName": "Îles Marshall.png",
+    "ID": "drapeau_115",
+    "Zone": "Océanie",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 13,
+    "FirstLetter": "Î"
+  },
+  {
+    "Country": "Maurice",
+    "FileName": "Maurice.png",
+    "ID": "drapeau_116",
+    "Zone": "Afrique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 7,
+    "FirstLetter": "M"
+  },
+  {
+    "Country": "Mauritanie",
+    "FileName": "Mauritanie.png",
+    "ID": "drapeau_117",
+    "Zone": "Afrique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 10,
+    "FirstLetter": "M"
+  },
+  {
+    "Country": "Mexique",
+    "FileName": "Mexique.png",
+    "ID": "drapeau_118",
+    "Zone": "Amérique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 7,
+    "FirstLetter": "M"
+  },
+  {
+    "Country": "États fédérés de Micronésie",
+    "FileName": "États fédérés de Micronésie.png",
+    "ID": "drapeau_119",
+    "Zone": "Océanie",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 27,
+    "FirstLetter": "É"
+  },
+  {
+    "Country": "République de Moldavie",
+    "FileName": "République de Moldavie.png",
+    "ID": "drapeau_120",
+    "Zone": "Europe",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 22,
+    "FirstLetter": "R"
+  },
+  {
+    "Country": "Monaco",
+    "FileName": "Monaco.png",
+    "ID": "drapeau_121",
+    "Zone": "Europe",
+    "Difficulty": "Expert",
+    "AltAnswer": "Indonésie",
+    "CharNb": 6,
+    "FirstLetter": "M"
+  },
+  {
+    "Country": "Mongolie",
+    "FileName": "Mongolie.png",
+    "ID": "drapeau_122",
+    "Zone": "Asie",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 8,
+    "FirstLetter": "M"
+  },
+  {
+    "Country": "Monténégro",
+    "FileName": "Monténégro.png",
+    "ID": "drapeau_123",
+    "Zone": "Europe",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 10,
+    "FirstLetter": "M"
+  },
+  {
+    "Country": "Mozambique",
+    "FileName": "Mozambique.png",
+    "ID": "drapeau_124",
+    "Zone": "Afrique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 10,
+    "FirstLetter": "M"
+  },
+  {
+    "Country": "Namibie",
+    "FileName": "Namibie.png",
+    "ID": "drapeau_125",
+    "Zone": "Afrique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 7,
+    "FirstLetter": "N"
+  },
+  {
+    "Country": "Nauru",
+    "FileName": "Nauru.png",
+    "ID": "drapeau_126",
+    "Zone": "Océanie",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 5,
+    "FirstLetter": "N"
+  },
+  {
+    "Country": "Népal",
+    "FileName": "Népal.png",
+    "ID": "drapeau_127",
+    "Zone": "Asie",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 5,
+    "FirstLetter": "N"
+  },
+  {
+    "Country": "Nicaragua",
+    "FileName": "Nicaragua.png",
+    "ID": "drapeau_128",
+    "Zone": "Amérique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 9,
+    "FirstLetter": "N"
+  },
+  {
+    "Country": "Niue",
+    "FileName": "Niue.png",
+    "ID": "drapeau_129",
+    "Zone": "Océanie",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 4,
+    "FirstLetter": "N"
+  },
+  {
+    "Country": "Niger",
+    "FileName": "Niger.png",
+    "ID": "drapeau_130",
+    "Zone": "Afrique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 5,
+    "FirstLetter": "N"
+  },
+  {
+    "Country": "Nigeria",
+    "FileName": "Nigeria.png",
+    "ID": "drapeau_131",
+    "Zone": "Afrique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 7,
+    "FirstLetter": "N"
+  },
+  {
+    "Country": "Norvège",
+    "FileName": "Norvège.png",
+    "ID": "drapeau_132",
+    "Zone": "Europe",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 7,
+    "FirstLetter": "N"
+  },
+  {
+    "Country": "Nouvelle-Zélande",
+    "FileName": "Nouvelle-Zélande.png",
+    "ID": "drapeau_133",
+    "Zone": "Océanie",
+    "Difficulty": "Facile",
+    "AltAnswer": "",
+    "CharNb": 16,
+    "FirstLetter": "N"
+  },
+  {
+    "Country": "Oman",
+    "FileName": "Oman.png",
+    "ID": "drapeau_134",
+    "Zone": "Asie",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 4,
+    "FirstLetter": "O"
+  },
+  {
+    "Country": "Ouganda",
+    "FileName": "Ouganda.png",
+    "ID": "drapeau_135",
+    "Zone": "Afrique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 7,
+    "FirstLetter": "O"
+  },
+  {
+    "Country": "Ouzbékistan",
+    "FileName": "Ouzbékistan.png",
+    "ID": "drapeau_136",
+    "Zone": "Asie",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 11,
+    "FirstLetter": "O"
+  },
+  {
+    "Country": "Pakistan",
+    "FileName": "Pakistan.png",
+    "ID": "drapeau_137",
+    "Zone": "Asie",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 8,
+    "FirstLetter": "P"
+  },
+  {
+    "Country": "Palaos",
+    "FileName": "Palaos.png",
+    "ID": "drapeau_138",
+    "Zone": "Océanie",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 6,
+    "FirstLetter": "P"
+  },
+  {
+    "Country": "Palestine",
+    "FileName": "Palestine.png",
+    "ID": "drapeau_139",
+    "Zone": "Asie",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 9,
+    "FirstLetter": "P"
+  },
+  {
+    "Country": "Panama",
+    "FileName": "Panama.png",
+    "ID": "drapeau_140",
+    "Zone": "Amérique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 6,
+    "FirstLetter": "P"
+  },
+  {
+    "Country": "Papouasie-Nouvelle-Guinée",
+    "FileName": "Papouasie-Nouvelle-Guinée.png",
+    "ID": "drapeau_141",
+    "Zone": "Océanie",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 25,
+    "FirstLetter": "P"
+  },
+  {
+    "Country": "Paraguay",
+    "FileName": "Paraguay.png",
+    "ID": "drapeau_142",
+    "Zone": "Amérique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 8,
+    "FirstLetter": "P"
+  },
+  {
+    "Country": "Pays-Bas",
+    "FileName": "Pays-Bas.png",
+    "ID": "drapeau_143",
+    "Zone": "Europe",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 8,
+    "FirstLetter": "P"
+  },
+  {
+    "Country": "Pérou",
+    "FileName": "Pérou.png",
+    "ID": "drapeau_144",
+    "Zone": "Amérique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 5,
+    "FirstLetter": "P"
+  },
+  {
+    "Country": "Philippines",
+    "FileName": "Philippines.png",
+    "ID": "drapeau_145",
+    "Zone": "Asie",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 11,
+    "FirstLetter": "P"
+  },
+  {
+    "Country": "Pologne",
+    "FileName": "Pologne.png",
+    "ID": "drapeau_146",
+    "Zone": "Europe",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 7,
+    "FirstLetter": "P"
+  },
+  {
+    "Country": "Portugal",
+    "FileName": "Portugal.png",
+    "ID": "drapeau_147",
+    "Zone": "Europe",
+    "Difficulty": "Facile",
+    "AltAnswer": "",
+    "CharNb": 8,
+    "FirstLetter": "P"
+  },
+  {
+    "Country": "Qatar",
+    "FileName": "Qatar.png",
+    "ID": "drapeau_148",
+    "Zone": "Asie",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 5,
+    "FirstLetter": "Q"
+  },
+  {
+    "Country": "Roumanie",
+    "FileName": "Roumanie.png",
+    "ID": "drapeau_149",
+    "Zone": "Europe",
+    "Difficulty": "Facile",
+    "AltAnswer": "Tchad",
+    "CharNb": 8,
+    "FirstLetter": "R"
+  },
+  {
+    "Country": "Royaume-Uni",
+    "FileName": "Royaume-Uni.png",
+    "ID": "drapeau_150",
+    "Zone": "Europe",
+    "Difficulty": "Facile",
+    "AltAnswer": "",
+    "CharNb": 11,
+    "FirstLetter": "R"
+  },
+  {
+    "Country": "Russie",
+    "FileName": "Russie.png",
+    "ID": "drapeau_151",
+    "Zone": "Europe",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 6,
+    "FirstLetter": "R"
+  },
+  {
+    "Country": "Rwanda",
+    "FileName": "Rwanda.png",
+    "ID": "drapeau_152",
+    "Zone": "Afrique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 6,
+    "FirstLetter": "R"
+  },
+  {
+    "Country": "Saint-Christophe-et-Niévès",
+    "FileName": "Saint-Christophe-et-Niévès.png",
+    "ID": "drapeau_153",
+    "Zone": "Amérique",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 26,
+    "FirstLetter": "S"
+  },
+  {
+    "Country": "Sainte-Lucie",
+    "FileName": "Sainte-Lucie.png",
+    "ID": "drapeau_154",
+    "Zone": "Amérique",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 12,
+    "FirstLetter": "S"
+  },
+  {
+    "Country": "Saint-Marin",
+    "FileName": "Saint-Marin.png",
+    "ID": "drapeau_155",
+    "Zone": "Europe",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 11,
+    "FirstLetter": "S"
+  },
+  {
+    "Country": "Saint-Vincent-et-les-Grenadines",
+    "FileName": "Saint-Vincent-et-les-Grenadines.png",
+    "ID": "drapeau_156",
+    "Zone": "Amérique",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 31,
+    "FirstLetter": "S"
+  },
+  {
+    "Country": "Salomon",
+    "FileName": "Salomon.png",
+    "ID": "drapeau_157",
+    "Zone": "Océanie",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 7,
+    "FirstLetter": "S"
+  },
+  {
+    "Country": "Salvador",
+    "FileName": "Salvador.png",
+    "ID": "drapeau_158",
+    "Zone": "Amérique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 8,
+    "FirstLetter": "S"
+  },
+  {
+    "Country": "Samoa",
+    "FileName": "Samoa.png",
+    "ID": "drapeau_159",
+    "Zone": "Océanie",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 5,
+    "FirstLetter": "S"
+  },
+  {
+    "Country": "Sao Tomé-et-Principe",
+    "FileName": "Sao Tomé-et-Principe.png",
+    "ID": "drapeau_160",
+    "Zone": "Afrique",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 20,
+    "FirstLetter": "S"
+  },
+  {
+    "Country": "Sénégal",
+    "FileName": "Sénégal.png",
+    "ID": "Drapeau_160",
+    "Zone": "Afrique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 7,
+    "FirstLetter": "S"
+  },
+  {
+    "Country": "Serbie",
+    "FileName": "Serbie.png",
+    "ID": "drapeau_162",
+    "Zone": "Europe",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 6,
+    "FirstLetter": "S"
+  },
+  {
+    "Country": "Seychelles",
+    "FileName": "Seychelles.png",
+    "ID": "drapeau_163",
+    "Zone": "Afrique",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 10,
+    "FirstLetter": "S"
+  },
+  {
+    "Country": "Sierra Leone",
+    "FileName": "Sierra Leone.png",
+    "ID": "drapeau_164",
+    "Zone": "Afrique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 12,
+    "FirstLetter": "S"
+  },
+  {
+    "Country": "Singapour",
+    "FileName": "Singapour.png",
+    "ID": "drapeau_165",
+    "Zone": "Asie",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 9,
+    "FirstLetter": "S"
+  },
+  {
+    "Country": "Slovaquie",
+    "FileName": "Slovaquie.png",
+    "ID": "drapeau_166",
+    "Zone": "Europe",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 9,
+    "FirstLetter": "S"
+  },
+  {
+    "Country": "Slovénie",
+    "FileName": "Slovénie.png",
+    "ID": "drapeau_167",
+    "Zone": "Europe",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 8,
+    "FirstLetter": "S"
+  },
+  {
+    "Country": "Somalie",
+    "FileName": "Somalie.png",
+    "ID": "drapeau_168",
+    "Zone": "Afrique",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 7,
+    "FirstLetter": "S"
+  },
+  {
+    "Country": "Soudan",
+    "FileName": "Soudan.png",
+    "ID": "drapeau_169",
+    "Zone": "Afrique",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 6,
+    "FirstLetter": "S"
+  },
+  {
+    "Country": "Soudan du Sud",
+    "FileName": "Soudan du Sud.png",
+    "ID": "drapeau_170",
+    "Zone": "Afrique",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 13,
+    "FirstLetter": "S"
+  },
+  {
+    "Country": "Sri Lanka",
+    "FileName": "Sri Lanka.png",
+    "ID": "drapeau_171",
+    "Zone": "Asie",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 9,
+    "FirstLetter": "S"
+  },
+  {
+    "Country": "Suède",
+    "FileName": "Suède.png",
+    "ID": "drapeau_172",
+    "Zone": "Europe",
+    "Difficulty": "Facile",
+    "AltAnswer": "",
+    "CharNb": 5,
+    "FirstLetter": "S"
+  },
+  {
+    "Country": "Suisse",
+    "FileName": "Suisse.png",
+    "ID": "drapeau_173",
+    "Zone": "Europe",
+    "Difficulty": "Facile",
+    "AltAnswer": "",
+    "CharNb": 6,
+    "FirstLetter": "S"
+  },
+  {
+    "Country": "Suriname",
+    "FileName": "Suriname.png",
+    "ID": "drapeau_174",
+    "Zone": "Amérique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 8,
+    "FirstLetter": "S"
+  },
+  {
+    "Country": "Syrie",
+    "FileName": "Syrie.png",
+    "ID": "drapeau_175",
+    "Zone": "Asie",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 5,
+    "FirstLetter": "S"
+  },
+  {
+    "Country": "Tadjikistan",
+    "FileName": "Tadjikistan.png",
+    "ID": "drapeau_176",
+    "Zone": "Asie",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 11,
+    "FirstLetter": "T"
+  },
+  {
+    "Country": "Tanzanie",
+    "FileName": "Tanzanie.png",
+    "ID": "drapeau_177",
+    "Zone": "Afrique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 8,
+    "FirstLetter": "T"
+  },
+  {
+    "Country": "Tchad",
+    "FileName": "Tchad.png",
+    "ID": "drapeau_178",
+    "Zone": "Afrique",
+    "Difficulty": "Expert",
+    "AltAnswer": "Roumanie",
+    "CharNb": 5,
+    "FirstLetter": "T"
+  },
+  {
+    "Country": "République tchèque",
+    "FileName": "République tchèque.png",
+    "ID": "drapeau_179",
+    "Zone": "Europe",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 18,
+    "FirstLetter": "R"
+  },
+  {
+    "Country": "Thaïlande",
+    "FileName": "Thaïlande.png",
+    "ID": "drapeau_180",
+    "Zone": "Asie",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 9,
+    "FirstLetter": "T"
+  },
+  {
+    "Country": "Timor oriental",
+    "FileName": "Timor oriental.png",
+    "ID": "drapeau_181",
+    "Zone": "Asie",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 14,
+    "FirstLetter": "T"
+  },
+  {
+    "Country": "Togo",
+    "FileName": "Togo.png",
+    "ID": "drapeau_182",
+    "Zone": "Afrique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 4,
+    "FirstLetter": "T"
+  },
+  {
+    "Country": "Tonga",
+    "FileName": "Tonga.png",
+    "ID": "drapeau_183",
+    "Zone": "Océanie",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 5,
+    "FirstLetter": "T"
+  },
+  {
+    "Country": "Trinité-et-Tobago",
+    "FileName": "Trinité-et-Tobago.png",
+    "ID": "drapeau_184",
+    "Zone": "Amérique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 17,
+    "FirstLetter": "T"
+  },
+  {
+    "Country": "Tunisie",
+    "FileName": "Tunisie.png",
+    "ID": "drapeau_185",
+    "Zone": "Afrique",
+    "Difficulty": "Facile",
+    "AltAnswer": "",
+    "CharNb": 7,
+    "FirstLetter": "T"
+  },
+  {
+    "Country": "Turkménistan",
+    "FileName": "Turkménistan.png",
+    "ID": "drapeau_186",
+    "Zone": "Asie",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 12,
+    "FirstLetter": "T"
+  },
+  {
+    "Country": "Turquie",
+    "FileName": "Turquie.png",
+    "ID": "drapeau_187",
+    "Zone": "Asie",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 7,
+    "FirstLetter": "T"
+  },
+  {
+    "Country": "Tuvalu",
+    "FileName": "Tuvalu.png",
+    "ID": "drapeau_188",
+    "Zone": "Océanie",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 6,
+    "FirstLetter": "T"
+  },
+  {
+    "Country": "Ukraine",
+    "FileName": "Ukraine.png",
+    "ID": "drapeau_189",
+    "Zone": "Europe",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 7,
+    "FirstLetter": "U"
+  },
+  {
+    "Country": "Uruguay",
+    "FileName": "Uruguay.png",
+    "ID": "drapeau_190",
+    "Zone": "Amérique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 7,
+    "FirstLetter": "U"
+  },
+  {
+    "Country": "Vanuatu",
+    "FileName": "Vanuatu.png",
+    "ID": "drapeau_191",
+    "Zone": "Océanie",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 7,
+    "FirstLetter": "V"
+  },
+  {
+    "Country": "Vatican",
+    "FileName": "Vatican.png",
+    "ID": "drapeau_192",
+    "Zone": "Europe",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 7,
+    "FirstLetter": "V"
+  },
+  {
+    "Country": "Venezuela",
+    "FileName": "Venezuela.png",
+    "ID": "drapeau_193",
+    "Zone": "Amérique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 9,
+    "FirstLetter": "V"
+  },
+  {
+    "Country": "Viet Nam",
+    "FileName": "Viet Nam.png",
+    "ID": "drapeau_194",
+    "Zone": "Asie",
+    "Difficulty": "Difficile",
+    "AltAnswer": "Vietnam",
+    "CharNb": 8,
+    "FirstLetter": "V"
+  },
+  {
+    "Country": "Yémen",
+    "FileName": "Yémen.png",
+    "ID": "drapeau_195",
+    "Zone": "Asie",
+    "Difficulty": "Expert",
+    "AltAnswer": "",
+    "CharNb": 5,
+    "FirstLetter": "Y"
+  },
+  {
+    "Country": "Zambie",
+    "FileName": "Zambie.png",
+    "ID": "drapeau_196",
+    "Zone": "Afrique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 6,
+    "FirstLetter": "Z"
+  },
+  {
+    "Country": "Zimbabwe",
+    "FileName": "Zimbabwe.png",
+    "ID": "drapeau_197",
+    "Zone": "Afrique",
+    "Difficulty": "Difficile",
+    "AltAnswer": "",
+    "CharNb": 8,
+    "FirstLetter": "Z"
+  }
+]
+}
